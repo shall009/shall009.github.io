@@ -1,0 +1,34 @@
+body
+{
+  background: grey;
+  color: pink;
+  font-family: Verdana, sans-serif;
+}
+
+h1, h2, h3, h4, h5
+{
+  font-family: Courier, serif;
+  text-align: center;
+  color: white;
+  letter-spacing: 3px;
+}
+
+header, footer
+{
+  text-align: center;
+}
+
+#myselfie
+{
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+
+#copyright
+{
+	text-align:center;
+	color: white;
+	font-style:italic;
+	font-size:70%;
+}
