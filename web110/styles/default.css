@@ -9,6 +9,7 @@ body
   color: pink;
   font-family: 'Pompiere', sans-serif;
   font-size: 25px;
+  line-height: 150%;
   padding-left: 50px;
   padding-right: 50px;
 }
